@@ -1,4 +1,4 @@
-# TMM
+# TMM barebone
 A short python script for the Transfer Matrix Method. I made it during my early days in graduate school.
 
 ## Installation
